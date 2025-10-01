@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | default: "Site" }}</title>
+  <style>
+    body { max-width: 800px; margin: 2rem auto; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; padding: 0 1rem; }
+    header, footer { opacity: 0.8; font-size: 0.9rem; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 2rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Optional site header -->
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <hr>
+    <!-- Optional footer -->
+  </footer>
+</body>
+</html>
