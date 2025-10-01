@@ -20,9 +20,9 @@ In other words: I'm happiest when I'm in a lab with a big computer, a busy white
 When I'm not doing that you can be certain that I'm on some outdoor adventure, forgetting to take the lens cap off my camera (https://www.instagram.com/ike.images/), or jamming in a band (:
 
 Here are some tidbits that I've picked up over the past few years that I feel are important:
-0) Ideas are disposable.
-1) Don't take yourself too seriously.
-2) Approach adversity in a spirited way.
-3) Think deeply about where you want to invest your time.
-4) Take your eyes off the screen — often!
-5) When opportunity presents itself, there is really no sense in playing it safe.
+0. Ideas are disposable.
+1. Don't take yourself too seriously.
+2. Approach adversity in a spirited way.
+3. Think deeply about where you want to invest your time.
+4. Take your eyes off the screen — often!
+5. When opportunity presents itself, there is really no sense in playing it safe.
