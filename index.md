@@ -3,4 +3,5 @@ title: Isaac Ronald Ward's Homepage
 layout: default
 ---
 
-{% include_relative README.md %}
+{% capture md %}{% include_relative README.md %}{% endcapture %}
+{{ md | markdownify }}
