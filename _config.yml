@@ -1,0 +1,2 @@
+# Minimal config to ensure Jekyll processes Markdown
+markdown: kramdown
